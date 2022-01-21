@@ -24,3 +24,7 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+*/**/bin/Debug
+*/**/bin/Release
+*/**/obj/Debug
+*/**/obj/Release
