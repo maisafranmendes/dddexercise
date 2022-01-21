@@ -31,7 +31,6 @@ bld/
 .obj/
 *.exe
 *.pdb
-*.manifest
 *.cache
 /build/
 *.suo
